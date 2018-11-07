@@ -1,2 +1,2 @@
 # JTTWBLOG
-GitHub Pages
+GitHub Pages :https://kenny254.github.io/JTTWBLOG/
